@@ -1,3 +1,10 @@
+#here we examine the impact of  water history on rhizobium partner quality, and how that interacts with the contemporary nitrogen 
+#we use a small subset of strains from the larger experiment. These strains were evolved with a plant and under a low nitrogen environment
+#and either came from historic dry or historic wet treatments 
+#we examine multiple plant traits of interest, as well as using multivariate approaches (pc for 
+#variable compression and rda for full multivariate analysis). Within the Ricks et al manuscript, 
+#these analyses correspond to Figure S5
+
 library(lme4)
 library(lmerTest)
 library(emmeans)
