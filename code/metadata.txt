@@ -1,0 +1,1 @@
+#phenotypic analyses folder includes all analses of plant phenotypic data in response to our various rhizobia strains
